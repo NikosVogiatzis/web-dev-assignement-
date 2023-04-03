@@ -78,11 +78,6 @@
 /* FRAME 3 CSS  */
 
 
-.iframe1{
-    height: 400px;
-    width: 1200px;
-    
-}
 /* END FRAME 3 CSS */
 
 /* .footerFrame1-2{
@@ -95,6 +90,7 @@
 .card-body{
     height: 100px;
     text-align: center;
+    border-top: 1px solid lightgray;
 }
 /* END FOOTER CSS */
 /* END CODE HERE */

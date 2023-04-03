@@ -43,6 +43,7 @@
 
 /* FOOTER CSS */
 .card-body{
+    border-top: 1px solid lightgray;
     height: 100px;
     text-align: center;
 }
